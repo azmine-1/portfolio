@@ -1,0 +1,1 @@
+inspo: https://github.com/cobiwave/simplefolio

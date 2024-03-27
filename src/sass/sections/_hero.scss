@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   border-bottom: 0px;
-  background: $white-color;
+  background: radial-gradient(879px at 10.4% 22.3%, rgb(255, 235, 238) 0%, rgb(186, 190, 245) 93.6%);
   font-weight: 400;
   color: $dark-blue-text;
   padding: 0rem 5.6rem;
@@ -49,6 +49,21 @@
       font-size: 2.8rem;
     }
   }
+  .technical-skills {
+    list-style: none; // Remove default list styles
+    padding: 0; // Remove default padding
+    margin: 0; // Remove default margin
+    display: flex; // Make the list items display horizontally
+
+    li {
+        margin-right: 10px; // Add some space between list items
+    }
+
+    img {
+        width: 30px; // Adjust the width of the images to make them small
+        height: 30px; // Adjust the height of the images to make them small
+    }
+}
 
   .hero-cta {
     display: flex;
