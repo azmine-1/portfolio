@@ -1,5 +1,3 @@
-inspo: https://github.com/cobiwave/simplefolio
-https://azmine-1.github.io/portfolio/src/index.html
-
+https://azmine-1-portfolio.netlify.app/
 
 
