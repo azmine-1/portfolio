@@ -1,2 +1,2 @@
 inspo: https://github.com/cobiwave/simplefolio
-https://github.io/azmine-1/portfolio/blob/main/src/index.html
+https://azmine-1.github.io/portfolio/blob/main/src/index.html
